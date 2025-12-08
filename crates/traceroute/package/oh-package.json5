@@ -8,6 +8,6 @@
   "types": "libs/index.d.ts",
   "dependencies": {},
   "keywords": ["traceroute", "harmony", "openharmony", "rust"],
-  "repository": "https://github.com/harmony-contrib/networks.git",
+  "repository": "https://github.com/harmony-contrib/networks/tree/main/crates/traceroute",
   "homepage": "https://github.com/harmony-contrib/networks"
 }
